@@ -13,7 +13,8 @@ p {
 }
 
 .table-border {
-    border: 1px solid #decaff;
+    border: 1px solid 
+    color: #decaff
 }
 
 #photo-resize {
